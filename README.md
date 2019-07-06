@@ -1,5 +1,8 @@
 # Simple BlockChain Example
+-------------------------------------------------------------------------------------------------------------------------
 
+-:note by ackroydAI - Intrinsic and fundamental to the future security of Humans. concatenated = Latin derived, linked, chain, joined.
+----------------------------------------------------------------------------------------------------------------------------
 A very simple BlockChain implementation intended to illustrate the concept.
 
 Original code, August 2015
